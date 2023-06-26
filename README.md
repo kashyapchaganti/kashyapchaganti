@@ -66,14 +66,7 @@
 
 
 <img align='left' width='47%' src= 'https://github-readme-stats.vercel.app/api?username=kashyapchaganti&show_icons=true&theme=radical'>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashyapchaganti&theme=dark&show_icons=true" width =550 />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapchaganti&theme=dark"  width=550/>
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=kashyapchaganti&theme=rogue"  width=1100/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapchaganti&theme=dark" width =350/>
+<img align='left' width='47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapchaganti&layout=compact'>
   
 
 ### Random Joke Generator
