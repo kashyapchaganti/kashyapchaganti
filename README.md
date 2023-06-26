@@ -20,8 +20,6 @@
 - 😄 And Many More...
 
 
-### 🔨 Languages and Tools:
----
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -61,18 +59,18 @@
 - 📫 How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/kashyapchaganti/)
 
 ## Coding profiles
----
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/KC96/) 
 
 ## Git stats
----
+
 
 <img align='left' width='47%' src= 'https://github-readme-stats.vercel.app/api?username=kashyapchaganti&show_icons=true&theme=radical'>
-<img align='left' width='47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapchaganti&layout=compact'>
+<img align='left' width='47%' src= 'https://github-readme-stats.vercel.app/api?username=kashyapchaganti&show_icons=true&theme=radical'>
   
 
 ### Random Joke Generator
----
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
