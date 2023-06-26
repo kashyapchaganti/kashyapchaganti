@@ -6,7 +6,8 @@
 ---
 ### Hi there 👋
 
-### I'm Kashyap Chaganti, pursuing 👨‍💻 Masters in Computer Science at Syracuse University. I will be graduating in Dec 2023. I also hold a Bachelors degree in Engineering from BITS Pilani. I worked as a Full Stack Developer at Zinnov. I'm Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research. I'm also an avid gamer and film buff.
+### I'm Kashyap Chaganti, pursuing 👨‍💻 Masters in Computer Science at Syracuse University. I will be graduating in Dec 2023. 
+-- I also hold a Bachelors degree in Engineering from BITS Pilani. I worked as a Full Stack Developer at Zinnov. I'm Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research. I'm also an avid gamer and film buff.
 ---
 
 
