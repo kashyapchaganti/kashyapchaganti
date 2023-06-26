@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kashyapchaganti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashyapchaganti/)](https://www.linkedin.com/in/kashyapchaganti/)
 [![Twitter Badge](https://img.shields.io/badge/-@KashyapChagi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KashyapChagi)](https://twitter.com/KashyapChagi) 
 [![GitHub followers](https://img.shields.io/github/followers/kashyapchaganti?label=Follow&style=social)](https://github.com/kashyapchaganti/?tab=follow)
----
+
 ### Hi there 👋
 
 #### I'm Kashyap Chaganti, pursuing :books: Masters in Computer Science at Syracuse University. I will be graduating in Dec 2023. I also hold a Bachelors degree in Engineering from BITS Pilani. I worked as a Full Stack Developer at Zinnov. I'm Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research. I'm also an avid gamer and film buff.
----
+
 
 
 ## 🧐 About me
