@@ -14,6 +14,7 @@
 
 - 🏄‍ I’m Quick learner and expert in handling critical tasks
 - 🔭 I am currently pursuing Masters in Computer Science at Syracuse University (Will be graduating by Dec 2023).
+- ⚡  I also hold a Dual Bachelors Degree in Mechanical Engineering and Biological Sciences from BITS Pilani
 - 🌱 I love to code and love to talk about Algorithmic Programming, Gaming, and Movies.
 - 🔭 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on Competative coding
