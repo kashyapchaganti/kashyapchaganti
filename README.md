@@ -18,7 +18,7 @@
 - 🌱 I love to code and love to talk about Algorithmic Programming, Gaming, and Movies.
 - 🔭 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on Competative coding
-- 😄 And currently looking for a job as an SDE ...
+- 😄 And currently looking for a Full Time job as an SDE ...
 
 
 ## ⚡ Technologies
