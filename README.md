@@ -55,7 +55,7 @@
 
 - 💬 Ask me about anything and everything!
 - 📄  Brainstorm with me over tech, algorithms, career, gaming, movies, and music.
-- ⚡  Checkout my [resume](https://drive.google.com/file/d/1nnYPwBKTeNQnuK4tMfYYVKsVo34aizxi/view?usp=sharing)
+- ⚡  Checkout my [resume](https://drive.google.com/file/d/1_iv-_FefmOJmNRfASMxHDREYm70tOXsP/view?usp=sharing)
 - 💬 Ping Me about #DSA, #Algorithms, #Coding, #Gaming, #GameOfThrones, #Movies and anything you like
 - 📫 How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/kashyapchaganti/)
 
